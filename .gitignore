@@ -1,0 +1,14 @@
+*/video
+*/.idea
+*/ffmpeg
+*/enonce
+TP3/export_image
+TP3/TP3.pdf
+
+TP3/mon_code/build
+TP3/mon_code/image*
+TP3/mon_code/tex
+
+.DS_Store
+*/*/.DS_Store
+*/.DS_Store
